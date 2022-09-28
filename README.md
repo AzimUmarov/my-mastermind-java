@@ -8,7 +8,7 @@ Some implemenmtation that mastermind game on CLI with using OOP
 
 ### MIT License
 [![License](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0])  
-<a href="https://github.com/theazimjon/my-api/blob/main/LICENSE.md" > Copyright (c) 2022 Azimjon Umarov </a>
+<a href="https://github.com/theazimjon/my-mastermind-java/blob/main/LICENSE.md" > Copyright (c) 2022 Azimjon Umarov </a>
 <p> Forbidden plagiarism for assigments! </p>
 
 ### The Core Team
